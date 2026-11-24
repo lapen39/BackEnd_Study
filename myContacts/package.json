@@ -1,0 +1,23 @@
+{
+  "name": "contacts-manager",
+  "version": "1.0.0",
+  "description": "simple contacts manager",
+  "homepage": "https://github.com/lapen39/BackEnd_Study#readme",
+  "bugs": {
+    "url": "https://github.com/lapen39/BackEnd_Study/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lapen39/BackEnd_Study.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
